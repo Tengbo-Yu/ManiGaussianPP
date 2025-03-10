@@ -1,6 +1,6 @@
 # ManiGaussian++: Dynamic Gaussian Splatting for Multi-task Bimanual Manipulation
 # 📝 TODO
-- [] Release code.
+- [ ] Release code.
 
 
 

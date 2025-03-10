@@ -1,6 +1,10 @@
-# Perceiver-Actor^2: A Multi-Task Transformer for Bimanual Robotic Manipulation Tasks
+# ManiGaussian++: Dynamic Gaussian Splatting for Multi-task Bimanual Manipulation
+# 📝 TODO
+- [] Release code.
 
-This work extends previous work [PerAct](https://peract.github.io) as well as
+
+
+<!-- This work extends previous work [PerAct](https://peract.github.io) as well as
 [RLBench](https://sites.google.com/view/rlbench) for bimanual manipulation
 tasks.
 
@@ -181,4 +185,4 @@ Initial release
 
 ## Questions or Issues?
 
-Please file an issue with the issue tracker.  
+Please file an issue with the issue tracker.   -->
